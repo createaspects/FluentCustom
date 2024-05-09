@@ -5,7 +5,7 @@ local InterfaceManager = {} do
     InterfaceManager.Settings = {
         Theme = "Dark",
         Acrylic = true,
-        Transparency = true,
+        Transparency = false,
         MenuKeybind = "LeftControl"
     }
 
